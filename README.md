@@ -1,4 +1,4 @@
-# Grupo-1_Turma-A
+# Grupo 1 - TurmaA
 404: Life Not Found - Projeto Integrador
 Utilizaremos este espaço para codificar nosso game RPG textual.
 
